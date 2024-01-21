@@ -1,0 +1,18 @@
+{
+  "name": "family-tree-maker-mvc",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "vite-dev": "vite dev"
+  },
+  "dependencies": {
+    "bootstrap-css": "^4.0.0-alpha.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "vite": "^5.0.12"
+  }
+}
